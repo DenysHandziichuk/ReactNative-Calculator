@@ -27,3 +27,5 @@ It supports basic arithmetic operations and mimics the look & feel of the iOS ca
 ---
 
 ## 📸 Preview
+
+![iOS Calculator Screenshot](./Screenshot.png)
